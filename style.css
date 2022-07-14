@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@1&family=Great+Vibes&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -34,6 +36,7 @@ input {
 }
 
 h1 {
+    font-family: 'Great Vibes', cursive;
   font-size: 2rem;
   font-weight: 700;
 }
@@ -51,4 +54,5 @@ ul li {
   margin-bottom: 0.5rem;
   font-size: 1.5rem;
   line-height: 2;
+  font-family: 'Asap Condensed', sans-serif;
 }
